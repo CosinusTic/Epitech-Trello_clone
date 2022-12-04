@@ -50,6 +50,8 @@ npm run lint
 
 
 ### Authors
--> Tiphaine Mossala
 -> Nathan Delmarche
--> Côme Mençon
+
+
+### Remarks
+The project may appear to be empty once launched. This is because the code interacts with a local mysql database with which you won't be able to connect. 
